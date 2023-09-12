@@ -5,15 +5,35 @@ Welcome to the SEGA Games repository! This repository contains comprehensive dat
 
 ## Table of Contents
 
-1. [Exploratory Data Analysis (EDA) & Analysis](#1-exploratory-data-analysis-eda--analysis)
-2. [Predictive Models](#2-predictive-models)
-3. [Installation](#3-installation)
-4. [Usage](#4-usage)
-5. [Contributing](#5-contributing)
-6. [License](#6-license)
-7. [Clone this Repository](#Clone-this-Repository)
+1. [Dataset](#1-dataset)
+2. [Exploratory Data Analysis (EDA) & Analysis](#1-exploratory-data-analysis-eda--analysis)
+3. [Predictive Models](#2-predictive-models)
+4. [Installation](#3-installation)
+5. [Usage](#4-usage)
+6. [Contributing](#5-contributing)
+7. [License](#6-license)
+8. [Clone this Repository](#Clone-this-Repository)
 
-## 1. Exploratory Data Analysis (EDA) & Analysis
+## 1. Dataset
+
+### Overview
+
+- **Source**: [SEGA Games Dataset on Kaggle](https://www.kaggle.com/datasets/joebeachcapital/sega-games)
+- **Description**: This dataset consists of all Sega games for all platforms, scraped from metacritic.com as of August 24, 2023. It includes the following columns:
+
+  - **meta score**: Meta score of the game.
+  - **user score**: User score of the game.
+  - **title**: Title of the game.
+  - **platform**: Platform(s) on which the game is available.
+  - **release date**: Release date of the game.
+  - **details page link**: Link to the details page of the game.
+  - **esrb rating**: ESRB (Entertainment Software Rating Board) rating of the game.
+  - **developers**: Developers of the game.
+  - **genres**: Genres to which the game belongs.
+
+This dataset serves as the foundation for the analyses and predictive models presented in this repository.
+
+## 2. Exploratory Data Analysis (EDA) & Analysis
 
 - **File**: `EDA&Analysis.ipynb`
 
@@ -34,7 +54,7 @@ A time series analysis is conducted to visualize how game scores have evolved ov
 ### Correlation Analysis
 I calculate and discuss the correlation between Meta Scores and User Scores, providing an understanding of the alignment between critics' and users' opinions.
 
-## 2. Predictive Models
+## 3. Predictive Models
 
 - **File**: `Models.ipynb`
 
@@ -55,22 +75,22 @@ I develop models to predict User Scores, reflecting the opinions of gamers thems
 ### Interpretation and Insights
 I interpret the results and derive insights into the factors influencing game scores, using visualization tools to convey these findings effectively.
 
-## 3. Installation
+## 4. Installation
 
 To run the notebooks and experiments in this repository, you need to install the required Python libraries. You can install these libraries using pip:
 
 ```bash
 pip install pandas numpy matplotlib seaborn plotly scikit-learn
 ```
-## 4. Usage
+## 5. Usage
 
 To explore the analyses, insights, and predictive models, you can access the respective Jupyter Notebook files: `EDA&Analysis.ipynb` and `Models.ipynb`. Feel free to run the code and experiment with the data to gain a deeper understanding of SEGA games.
 
-## 5. Contributing
+## 6. Contributing
 
 I welcome contributions! If you have additional data, insights, or improvements to the analysis and models, please submit a pull request. Your contributions will help enhance the quality of this repository.
 
-## 6. License
+## 7. License
 
 This repository is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code and contents as long as you provide appropriate attribution and adhere to the terms of the license.
 
