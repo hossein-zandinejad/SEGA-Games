@@ -6,7 +6,7 @@ Welcome to the SEGA Games repository! This repository contains comprehensive dat
 ## Table of Contents
 
 1. [Dataset](#1-dataset)
-2. [Exploratory Data Analysis (EDA) & Analysis](#2-exploratory-data-analysis-(eda)-&-analysis)
+2. [Exploratory Data Analysis (EDA) & Analysis](#2-exploratory-data-analysis-eda--analysis)
 3. [Predictive Models](#3-predictive-models)
 4. [Installation](#4-installation)
 5. [Usage](#5-usage)
