@@ -18,8 +18,9 @@ Welcome to the SEGA Games repository! This repository contains comprehensive dat
 
 ### Overview
 
+![Sega logo](/Codes/sega.png)
+
 - **Source**: [SEGA Games Dataset on Kaggle](https://www.kaggle.com/datasets/joebeachcapital/sega-games)
-  ![Sega logo](/Codes/sega.png)
 - **Description**: This dataset consists of all Sega games for all platforms, scraped from metacritic.com as of August 24, 2023. It includes the following columns:
 
   - **meta score**: Meta score of the game.
