@@ -18,7 +18,9 @@ Welcome to the SEGA Games repository! This repository contains comprehensive dat
 
 ### Overview
 
-![Sega logo](/Codes/sega.png)
+<div style="text-align:center;">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fdesktop-wallpaper-qdbgb&psig=AOvVaw0Nf6h4DeYM3uDE7x1qTR9G&ust=1694677896545000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjPk6KNp4EDFQAAAAAdAAAAABAE" alt="Your Image Alt Text">
+</div>
 
 - **Source**: [SEGA Games Dataset on Kaggle](https://www.kaggle.com/datasets/joebeachcapital/sega-games)
 - **Description**: This dataset consists of all Sega games for all platforms, scraped from metacritic.com as of August 24, 2023. It includes the following columns:
