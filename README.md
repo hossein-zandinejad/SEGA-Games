@@ -1,7 +1,7 @@
 # SEGA Games
 SEGA Games Dataset (Kaggle) analysis
 
-![SEGA logo](/Codes/segalogo.jpeg)
+![SEGA logo](/Codes/sega.gif)
 
 Welcome to the SEGA Games repository! This repository contains comprehensive data analysis and predictive modeling related to SEGA games. It is designed to provide insights into the world of SEGA gaming, including the exploration of historical data and the development of predictive models for game scores and ratings.
 
